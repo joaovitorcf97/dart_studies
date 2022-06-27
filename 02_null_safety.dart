@@ -1,7 +1,7 @@
 void main() {
   String? nome;
   nome = 'ABC';
-  print(nome!);
+  print(nome);
 
   late String sobrenome;
   sobrenome = 'DE';
